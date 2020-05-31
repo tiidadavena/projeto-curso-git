@@ -1,0 +1,38 @@
+body{
+	background: #A9BCF5;
+	font-family: Helvetica Neue;
+	margin-right: 200px;
+	margin-left:  100px;
+}
+
+header{
+	margin-top: 70px;
+}
+
+h1{
+	font-family: Helvetica;
+	font-style: bold;
+	font-size: 30px;
+}
+
+h2{
+	font-family: Futura;
+	font-size: 30px;
+}
+p{
+	font-size: 18px;
+}
+
+img{
+	margin-bottom: 80px;
+}
+
+footer{
+	margin-bottom: 30px;
+}
+
+.img_padrao{
+	margin-bottom: 20px;
+	width: 100px;
+
+}
